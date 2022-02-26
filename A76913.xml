@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The bloody Quaker or the Glocester-shire murder discovered Being an exact and true relation of a bloody murder, committed by one farmer restal a Quaker of Stoke near Tueksbury in Glocester-shire who with his son murdered the wife of one robert Hamond to whom he was indebted the summe of thirty pound, as also another young woman which had been married but four dayes before, and how the murder was discovered by the meanes of a boy which over run them, likewise their arraignment at Glocester assizes, their condemnation, with the execution of the son, the 7th of this present July and how the father is at present repreived. With allowance.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76913</idno>
+            <idno type="STC">Wing B3291aA</idno>
+            <idno type="STC">ESTC R230872</idno>
+            <idno type="EEBO-CITATION">99896580</idno>
+            <idno type="PROQUEST">99896580</idno>
+            <idno type="VID">134574</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76913)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 134574)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2419:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The bloody Quaker or the Glocester-shire murder discovered Being an exact and true relation of a bloody murder, committed by one farmer restal a Quaker of Stoke near Tueksbury in Glocester-shire who with his son murdered the wife of one robert Hamond to whom he was indebted the summe of thirty pound, as also another young woman which had been married but four dayes before, and how the murder was discovered by the meanes of a boy which over run them, likewise their arraignment at Glocester assizes, their condemnation, with the execution of the son, the 7th of this present July and how the father is at present repreived. With allowance.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by P.L[illicrap].,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Murder --  England --  Early works to 1800.</term>
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:134574:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 116 -->
+            <pb facs="tcp:134574:1"/>
+            <!-- PDF PAGE 116 -->
+            <pb facs="tcp:134574:2"/>
+            <!-- PDF PAGE 117 -->
+            <pb facs="tcp:134574:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 117 -->
+            <p>THE BLOODY QUAKER OR The <hi>Gloceſter-ſhire</hi> Murder diſcovered.</p>
+            <p>Being an exact and true Relation of a bloody Murder, committed by one <hi>Farmer Reſtal</hi> a Quaker of <hi>Stoke</hi> near <hi>Tueksbury</hi> in <hi>Gloceſter-ſhire</hi> who with his Son mur<g ref="char:EOLhyphen"/>dered the wife of one <hi>Robert Hamond</hi> to whom he was indebted the ſumme of Thirty pound, as alſo another young woman which had been married but four dayes before, and how the murder was diſcovered by the meanes of a Boy which over run them, likewiſe their arraignment at <hi>Gloceſter</hi> Aſſizes, their condemnation, with the Execution of the Son, the 7th of this preſent <hi>July</hi> and how the Father is at preſent repreived.</p>
+            <q>
+               <bibl>
+                  <hi>Exodus 21.</hi> v. <hi>12.</hi>
+               </bibl>
+               <p>He that ſmiteth a man, ſo that he dye, ſhall ſurely be put to death.</p>
+            </q>
+            <p>With Allowance.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>P. L.</hi> 1668.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:134574:3"/>
+            <!-- PDF PAGE 118 -->
+            <pb n="1" facs="tcp:134574:3"/>
+            <!-- PDF PAGE 118 -->
+            <head>THE Bloody Quaker, OR The <hi>Gloceſter-ſhire</hi> Murder diſcovered.</head>
+            <p>WEll did the Apoſtle ſay that <hi>Covetuouſnes was the root of all Evil,</hi> there is ſcarce any vice whatſo<g ref="char:EOLhyphen"/>ever but hath covetuouſneſs for his ſource and original, it is covetuouſneſs which cauſeth the breach of al<g ref="char:EOLhyphen"/>moſt all laws both Humane and Divine; men woulſd not ſteal, did they not covet other mens goods. Trade men would not couzen and cheat, did they not covet to grow rich by unlawful practiſes, though moſt commonly what is bad gotten is as evily ſpent: it was covetuouſneſs which cauſed <hi>Judas</hi> to betray our Saviour, Subjects ſince to ſell their King, ſome for covetouſneſs have betraied their Ma<g ref="char:EOLhyphen"/>ſters, others detected their deareſt Friends and relations
+<pb n="2" facs="tcp:134574:4"/>
+               <!-- PDF PAGE 119 -->is that which cauſeth ſo m<gap reason="illegible: damage" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>its in law, ſo many diſſenti<g ref="char:EOLhyphen"/>ons and deviſions among<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>hem which ſhould be Brethren, it makes many to wear a mask of Religion, and to have God in their mouthes, and the Devil in their heart, nay to ſo great a height doth covetouſneſs come that it reaches even to life it ſelf, cauſing cruel and horrible Murthers to be com<g ref="char:EOLhyphen"/>mitted as ſhall be inſtanced in a moſt ſad and lamentable ex<g ref="char:EOLhyphen"/>ample lately committed in <hi>Gloceſter-ſhire,</hi> by one who car<g ref="char:EOLhyphen"/>ried a vizard of Religion, and ſeemingly ſerved God, but really had the Devil to his Maſter.</p>
+            <p>This Miſcreant of whom we thus write, was one <hi>Farmer Reſtal</hi> of <hi>Stoke</hi> near <hi>Tueksbury</hi> in <hi>Gloceſter-ſhire,</hi> a great follow<g ref="char:EOLhyphen"/>er of the ſect called <hi>Quakers,</hi> a ſeeming Saint but real Devil, one that could <hi>thee</hi> and <hi>thou</hi> it with the beſt, turn up the white of the eye, and exclaime againſt the ungodlineſs of the times, when <hi>Satan</hi> had taken poſſeſsion of his heart, and was no further religious then onely to ſerve his own wicked and covetous ends. I do not ſpeak this againſt any that are zealous profeſſors of the truth, I wiſh the number of them were more, who do worſhip God in the ſincerity of their hearts; but only to ſhew you how that many people take upon them the vizor of Religion only for ſiniſter ends, ſome that are poor to get maintenance by it, others under the colour thereof to rebel againſt their ſuperiours, ſome that they may couſen with t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e leſs ſuſpition, and others not to be afraid to act the h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gheſt villanies thereby, thinking the pre<g ref="char:EOLhyphen"/>tence thereof w<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld carry them above the thoughts of being ſuſpected for ſuch perſons.</p>
+            <p>This <hi>Farmer Reſtal</hi> was indebted to one <hi>Robert Hammond</hi> the ſumn of thirty pounds, for which <hi>Hammond</hi> had his Bond and the time of payment being now expired, and he then in <hi>Ireland,</hi> and wanring money to go forwards with his buſi<g ref="char:EOLhyphen"/>neſs,
+<pb n="3" facs="tcp:134574:4"/>
+               <!-- PDF PAGE 119 -->he ſends his wife over into <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> get the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame, thinking her preſenc<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>vaile more for the procurement thereof then if he <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>nd Letters, which many times miſcarry, and if rece<gap reason="illegible: damage" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap> 
+               <gap reason="illegible" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>yer oftentimes faile of what they are ſent for, as wanting that moveing force which a mans preſenee may procure.</p>
+            <p>Over into <hi>England</hi> comes this innocent woman, little dreaming the date of her life was ſo near exſpiring, the poor woman was glad ſhe had eſcaped the dangers of the Sea, little miſtruſting a far greater danger attended her on land: and that an <hi>Engliſh</hi> mans heart ſhould be more bloody then an <hi>Iriſh woolves,</hi> who only ſeize to ſatisfie hunger, and not to kill whom they pretend to love. Being come to <hi>Stoke</hi> where this <hi>Reſtal</hi> lived, ſhe demands the money of him due to her Husband, <hi>Reſtal</hi> gives her very good words, pretends he is heartily glad to ſee her, and thou (ſayes he) ſhall not faile to have thy money, the woman being ſomething earneſt for the ſame, as deſirous to return quickly againe to her Husband, he bid her go to <hi>Cheltnham,</hi> a Town ſome three miles diſtant from <hi>Stoke,</hi> and to carry the Bond with her, where he would not faile to come unto her, and give her full ſatisfaction.</p>
+            <p>O damn'd hypocriſie! O deep diſſimulation! O that men ſhould be of ſuch a bloody mercileſs diſpoſition, as to ſeek the ruine of their fellow Creatures, man was born without any offenſive weapons, and yet none more cruel againſt thoſe of his own ſex then he, ſerpents bite not each other: Wolves will not kill Wolves, Bees ſting not but their E<g ref="char:EOLhyphen"/>nemies, but man (far worſe herein then beaſts) for the lucre of a little gain will not fear to deface Gods Image in man, and to imbrue his hands in his brothers blood.</p>
+            <p>Now the devil begins to work, the Father and Son lay
+<pb n="4" facs="tcp:134574:5"/>
+               <!-- PDF PAGE 120 -->their heads together, and as <hi>Pharoah</hi> ſaid, <hi>come let us work wiſely</hi> when he did the moſt fooliſhly of all, ſo they conſult together, they have away to pay the bond without money. it is but killing the woman and taking it from her, they can do it privately and not be ſeen, never conſidering the all<g ref="char:EOLhyphen"/>ſeeing eye of God from whom nothing is hid, nor regarding that old but true ſaying, that <hi>murder will b<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> revealed, by whom<g ref="char:EOLhyphen"/>ſoever committed.</hi>
+            </p>
+            <p>Fraught thus with murderous intentions, having Bills in their hands away they hie to overtake the poor innocent woman, who to ſecure her Bond, had put it in her boſome next her skin, they having overtook her, demand it of her, ſhe poor woman (little dreaming the price of her life lay thereon) denyes to give it them. The Devil who had gotten poſſeſſioo of their hearts,, prompts them to take no denyal, but to ad murther to their intentional theft, better not to begin at all then not to go thorowly on, thus when men are going down the road to Hel, they run amain, they made no more adoe but with the Bill cleft her head, ſo that the poor ſoul preſently dyed, and now the two murderers think with <hi>Jeſabel</hi> to <hi>kill and take poſeſsion,</hi> they queſtion not now the having of the Bond, and think by this act their debt is ful<g ref="char:EOLhyphen"/>ly and wholly ſatisfied.</p>
+            <p>But whiles they were ſearching for the Bond, they were affrighted with the fear of diſcovery by the appearance of a young woman, one that had been married but four dayes be<g ref="char:EOLhyphen"/>fore, and now accidentally came by that way, what ſhall they do now in this caſe: the Devil puts it into their hearts that they had no wayes but to proceed on in murder, as much danger of being hanged for one as two, they reſ<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e ſhall tell no tales of them, her mouth muſt be <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> death, the woman perceives what they had done, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:134574:5"/>
+               <!-- PDF PAGE 120 -->intentions, and flees away ſo faſt as ſhe could, but alas her legs could not carry her away faſt enough, ſhe is overtaken and by thoſe bloody inhumane villaines murdered alſo.</p>
+            <p>O monſters of Nature, more ſavage then Lions, Bears or Tygers, O viperous brood fleſhed in wickedneſs; whoſe hearts are hardned, and conſciences ſeared! O cruel hypo<g ref="char:EOLhyphen"/>cryſie that men who carry the vizards of Religion ſhould ſo degenerate from all goodneſs, that neither the love of God, nor fear of puniſhment can deterre from ſuch barbari<g ref="char:EOLhyphen"/>ty! O who can think of ye without horrour, or ſpeak of ye without deteſtation, you have purchaſed ye a laſting name by infamy, and without the greater repentance, ever<g ref="char:EOLhyphen"/>laſting torments in hell fire.</p>
+            <p>When they had thus murdered the two women, looking about they eſpyed a Boy who was alſo coming that way, whom when they ſaw they intended to have ſent him on the ſame errand with the two former, for now their hands was in the ſhedding of blood was not a tertour to them; but pro<g ref="char:EOLhyphen"/>vidence diſapointed them of their thoughts, the Boy per<g ref="char:EOLhyphen"/>ceived what they had done, and thought he alſo ſhould be a gueſt at that bloody banquet, he therefore to prevent it be<g ref="char:EOLhyphen"/>took him to his heels, and fear adding wings to his feet he out ran them, who purſued him haſtily, being vexed that they had loſt their prey, the Bird being thus eſcaped out of the hunters nets, the Towneſmen are raiſed, the murderers are taken, and had before Juſtice, the matter was too manifeſt to be denyed, they are committed to Gaol, the whole Coun<g ref="char:EOLhyphen"/>try being filled with wonder and admiration of ſo horrible a murder.</p>
+            <p>O that men profeſsing Religion ſhould dare to commit ſuch horrid actions, had they not ſpilt the blood of thoſe two helpleſs innocent women, with what face could this
+<pb n="6" facs="tcp:134574:6"/>
+               <!-- PDF PAGE 121 -->
+               <hi>Reſtal</hi> have taken away the Bond from <hi>Hamonds</hi> wife, know<g ref="char:EOLhyphen"/>ing the money juſtly due unto her, had it not been a plain th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ft, may we not juſtly ſay <hi>the Devil hath ſtolen ſuch mens conſciences away,!</hi> O how does theſe times outſtrip the for<g ref="char:EOLhyphen"/>mer in wickedneſs, ſins of a ſcarlet dye, hardly to be para<g ref="char:EOLhyphen"/>leld, nay even amongſt thoſe Nations whom we term bar<g ref="char:EOLhyphen"/>ba<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous.</p>
+            <p>At the aſſizes at <hi>Gloceſter</hi> they pleaded not guilty, when ſuddenly the young mans mouth (whoſe hands had been ſo deeply imbrued) now guſhed forth with blood, to the great aſtoniſhment of all the people, and to the horror and confuſi<g ref="char:EOLhyphen"/>on of that bloody murderer.</p>
+            <p>In breif they were both proved guilty, and therefore had juſtly the deſerved ſentence of condemnation pronounced a<g ref="char:EOLhyphen"/>gainſt th<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m, and in execution thereof, the young man was executed the 7 day of this inſtant moneth of <hi>July.</hi> the old man was for the preſent repreived.</p>
+            <p>I wiſh their ſentence and the young mans untimely end, may be a warning to all that are alive, to beware of covetu<g ref="char:EOLhyphen"/>ouſneſs, which brings with it a chain of other ſins, and was no queſtion the original of theſe <hi>Reſtals,</hi> or rather <hi>Raſcals</hi> bloody acts, and let all people be warned to provide for their latter end, ſeeing though we riſe well and luſty in the morning, we know not by what accident the thred of our life may be cut off before night, and take this for a true max<g ref="char:EOLhyphen"/>ime <hi>that there is no man whatſoever that never ſo much de<g ref="char:EOLhyphen"/>ſpizeth his own life, but yet is maſter of another mans.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:134574:6"/>
+            <!-- PDF PAGE 121 -->
+         </div>
+      </body>
+   </text>
+</TEI>
